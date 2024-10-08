@@ -66,7 +66,7 @@ public class testConnect extends javax.swing.JFrame {
         if (con != null) {
             JOptionPane.showMessageDialog(this, "Ket noi thanh cong");
         } else {
-            JOptionPane.showMessageDialog(this, "Ket noi that bai");
+            JOptionPane.showMessageDialog(this, "Ket noi that bai roi");
         }
     }//GEN-LAST:event_jButton1ActionPerformed
 
