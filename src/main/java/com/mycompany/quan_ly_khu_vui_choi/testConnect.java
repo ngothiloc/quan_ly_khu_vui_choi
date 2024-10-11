@@ -64,7 +64,7 @@ public class testConnect extends javax.swing.JFrame {
         // TODO add your handling code here:
         Connection con = ConnectDB.KetnoiDB();
         if (con != null) {
-            JOptionPane.showMessageDialog(this, "Ket noi thanh cong");
+            JOptionPane.showMessageDialog(this, "Ket noi thanh cong di ");
         } else {
             JOptionPane.showMessageDialog(this, "Ket noi that bai roi");
         }
